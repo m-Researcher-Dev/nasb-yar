@@ -75,7 +75,7 @@ python app.py
 ---
 ### 📢 Notice / اطلاعیه
 *This project has been renamed.*
-**This project will be developed under the name «Dorj» from now on.**
+**This project will be developed under the name «[Dorj](https://github.com/m-Researcher-Dev/dorj-view)» from now on.**
 
 
-**این پروژه تغییر نام داده است. این پروژه از این پس با نام «دورج (Dorj)» توسعه داده می‌شود.**
+**این پروژه تغییر نام داده است. این پروژه از این پس با نام «دورج ([Dorj](https://github.com/m-Researcher-Dev/dorj-view))» توسعه داده می‌شود.**
